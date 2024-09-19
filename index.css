@@ -39,7 +39,7 @@
 }
 .cover{
     color: white;
-    background-image: url(./images/cover.svg);
+    background-image: url(./s-chistogo-lista/cover.svg);
     background-repeat: no-repeat;
     background-size: cover;
     overflow: hidden;
